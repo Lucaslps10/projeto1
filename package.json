@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": " https://lucaslps10.github.io/projeto1/",
+  "homepage": " https://lucaslps10.github.io/projeto1",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
